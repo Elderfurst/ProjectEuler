@@ -10,7 +10,7 @@ namespace ProjectEuler
     {
         static void Main(string[] args)
         {
-            var run = new Problem3();
+            var run = new Problem4();
             run.Run();
         }
     }
