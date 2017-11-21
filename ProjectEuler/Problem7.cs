@@ -15,7 +15,7 @@ namespace ProjectEuler
             while (true)
             {
                 counter++;
-                if (IsPrime(counter))
+                if (Helper.IsPrime(counter))
                 {
                     primeCount++;
                     if (primeCount == 10001)
@@ -25,18 +25,6 @@ namespace ProjectEuler
                     }
                 }
             }
-        }
-
-        private static bool IsPrime(int value)
-        {
-            for (var i = 2; i <= Math.Sqrt(value); i++)
-            {
-                if (value % i == 0)
-                {
-                    return false;
-                }
-            }
-            return true;
         }
     }
 }
