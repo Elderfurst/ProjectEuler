@@ -19,7 +19,7 @@ namespace ProjectEuler
                 {
                     triangleNum += i;
                 }
-                for (var i = 1; i < triangleNum / 2; i++)
+                for (var i = 1; i < triangleNum; i++)
                 {
                     if (triangleNum % i == 0)
                     {
