@@ -4,7 +4,7 @@ using System.Linq;
 
 namespace ProjectEuler
 {
-    public class Problem3 : IRunnable
+    public class Problem3
     {
         public void Run()
         {

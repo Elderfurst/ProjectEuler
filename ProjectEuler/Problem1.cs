@@ -7,7 +7,7 @@ using System.Xml.Schema;
 
 namespace ProjectEuler
 {
-    public class Problem1 : IRunnable
+    public class Problem1
     {
         public void Run()
         {

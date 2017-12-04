@@ -2,7 +2,7 @@
 
 namespace ProjectEuler
 {
-    public class Problem14 : IRunnable
+    public class Problem14
     {
         public void Run()
         {

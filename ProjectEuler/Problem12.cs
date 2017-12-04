@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace ProjectEuler
 {
-    public class Problem12 : IRunnable
+    public class Problem12
     {
         public void Run()
         {

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ProjectEuler
 {
-    public class Problem6 : IRunnable
+    public class Problem6
     {
         public void Run()
         {

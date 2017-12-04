@@ -4,7 +4,7 @@ using System.Globalization;
 
 namespace ProjectEuler
 {
-    public class Problem9 : IRunnable
+    public class Problem9
     {
         public void Run()
         {

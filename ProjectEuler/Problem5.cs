@@ -3,7 +3,7 @@ using System;
 
 namespace ProjectEuler
 {
-    public class Problem5 : IRunnable
+    public class Problem5
     {
         public void Run()
         {
